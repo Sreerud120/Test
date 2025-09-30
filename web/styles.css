@@ -1,0 +1,33 @@
+.hd{
+    text-align: center;
+    background-color: black;
+    color: white;
+     margin-top: 50px;
+     box-shadow: 3px 3px 3px white;
+}
+
+.mq{
+    font-weight:bold;
+}
+.sechd{
+    padding-top:30px;
+    color: tomato;
+    text-shadow: 3px 3px 3px black;
+}
+.bg{
+    background:linear-gradient(red, darkblue) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: arial;
+}
+
+.pa{
+    color:antiquewhite;
+    width:300px;
+}
+
+.img{
+    border: 5px white solid;
+    width:100px;
+    height:130px;
+}
